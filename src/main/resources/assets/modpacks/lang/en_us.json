@@ -1,0 +1,13 @@
+{
+  "itemGroup.modpacks": "Example Mod Tab",
+  "block.modpacks.example_block": "Example Block",
+  "item.modpacks.example_item": "Example Item",
+
+  "modpacks.configuration.title": "ModPacks Configs",
+  "modpacks.configuration.section.modpacks.common.toml": "ModPacks Configs",
+  "modpacks.configuration.section.modpacks.common.toml.title": "ModPacks Configs",
+  "modpacks.configuration.items": "Item List",
+  "modpacks.configuration.logDirtBlock": "Log Dirt Block",
+  "modpacks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "modpacks.configuration.magicNumber": "Magic Number"
+}
